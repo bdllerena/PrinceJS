@@ -19,19 +19,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oklemenz/PrinceJS.git"
+    "url": "git+https://github.com/bdllerena/PrinceJS.git"
   },
   "bugs": {
-    "url": "https://github.com/oklemenz/PrinceJS/issues"
+    "url": "https://github.com/bdllerena/PrinceJS/issues"
   },
-  "homepage": "https://github.com/oklemenz/PrinceJS#readme",
+  "homepage": "https://github.com/bdllerena/PrinceJS#readme",
   "devDependencies": {
-    "eslint": "^8.53.0",
-    "eslint-config": "^0.3.0",
-    "eslint-config-prettier": "^9.0.0",
+    "eslint": "^9.10.0",
+    "eslint-config-prettier": "^9.1.0",
     "http-server": "^14.1.1",
-    "prettier": "^3.0.3",
-    "xml2json": "^0.12.0"
+    "prettier": "^3.3.3",
+    "fast-xml-parser": "^4.5.0"
   },
   "license": "SEE LICENSE IN LICENSE"
 }
